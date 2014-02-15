@@ -1,4 +1,4 @@
-arduino_remote_car
+About this code.
 ==================
 
 Arduino, node.js, Socket.IO, XBee
